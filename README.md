@@ -1,5 +1,8 @@
 # carrd-clone-frontend-website
 This is the clone of the frontend design from one of the template of website available at carrd.com. This is build by using html and tailwind css.
+
+YOU CAN CHECK OUT THE LIVE WEBSITE ON 👉 https://viverra-clone-by-carrd.netlify.app/ 👈
+
 1) MAKE SURE THAT YOU ALREAFY HAVE NODE JS INSTALLED IN YOUR COMPUTER AND IF NOT THEN YPU CAN DOWNLOAD THAT FROM 👉 https://nodejs.org/en
 
 2) YOU NEED TO SET UP TAILWIND CSS WHICH IS A CSS FRAMEWORK FROM THEIR OFFICIAL WEBSITE 👉 https://tailwindcss.com/
